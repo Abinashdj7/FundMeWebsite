@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5",
+    "hardhat-deploy": "^0.12.4"
+  },
+  "dependencies": {
+    "ethers": "^5.4.0",
+    "hardhat-waffle": "^0.0.1-security"
+  }
+}
